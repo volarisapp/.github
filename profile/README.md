@@ -22,4 +22,4 @@ Have a bug to report or a feature request? Create an issue on our GitHub reposit
 
 ## 📝 License
 
-Volaris is released under the [MIT License](LICENSE).
+Volaris is released under the [BSD 2-Clause License](https://github.com/volarisapp/volaris/blob/main/LICENSE).
