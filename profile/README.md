@@ -1,10 +1,6 @@
 In Memory of Jake Lee Robinson (aka https://github.com/brxken128)
 
 - Jake was honestly my best of best friends, I'm so heart broken to have to hear that he has passed away.
-- He was like a brother to me, one I never had and wished to never loose but sadly not all things can go the way we want it to.
-- Just a few weeks before he turned 20 aswell, heh, life sucks and it really does suck that it had to end this way. If he is somehow reading this, I'll miss you forever and ever man.
-- I really don't have the knowledge to continue this, jake also owns volar.is and volaris.dev which he was sadly never able to set up and his github controls the main repo fully and I do not have full write access.
-- I'm really really going to miss him, he helped me through so much and I did the same and wished I could've helped more D:
 - From [Leo](https://github.com/greendoescode)
 
 ![image](https://github.com/volarisapp/.github/assets/77177015/78662a5a-dc02-4b07-9d33-6440c071cac3)
